@@ -6,6 +6,9 @@
 * [Index.cshtml](./CS/DevExpressMvcApplication1/Views/Home/Index.cshtml)
 <!-- default file list end -->
 # GridView - How to Select a Particular Row when a Page is Opened First Time 
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e20039)**
+<!-- run online end -->
 
 
 <p> This example demonstrates how to select a particular rows when a page is opened first time </p>
